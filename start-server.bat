@@ -1,2 +1,2 @@
-#starts custom node js web server
+REM starts custom node js web server
 node ./server/scktest.js
